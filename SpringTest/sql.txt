@@ -1,0 +1,9 @@
+create table users(
+id SERIAL PRIMARY KEY,
+name            varchar(30)  not null,
+surname            varchar(30)  not null,
+date date not null,
+email            varchar(30)  not null,
+ pass         bytea not null
+);
+

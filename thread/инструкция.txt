@@ -1,0 +1,5 @@
+Я собирал проект в IntelliJ IDEA
+Запуск:
+В консоли переходим в папку ...\thread\out\production\thread
+и набираем команду
+java ThreadClass
